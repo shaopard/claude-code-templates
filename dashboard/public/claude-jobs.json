@@ -1,12 +1,52 @@
 {
-  "lastUpdated": "2026-09-11T07:43:43.773161+00:00",
-  "totalJobs": 96,
+  "lastUpdated": "2026-09-12T07:39:03.516735+00:00",
+  "totalJobs": 90,
   "sources": [
     "Anthropic",
-    "HackerNews",
-    "WeWorkRemotely"
+    "HackerNews"
   ],
   "jobs": [
+    {
+      "id": "anth-5421566008",
+      "company": "Anthropic",
+      "position": "Technical Architect ",
+      "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York C",
+      "remote": true,
+      "salary": "",
+      "description": "Claude Code is changing how engineering organizations build software, and most of them need someone to show them how. That's you. Technical Architects help customers get real work done with Claude Code, Claude Tag (Claude Code as an agent in Slack), and the enterprise admin controls that decide...",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5421566008",
+      "source": "Anthropic",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5421566008",
+      "postedAt": "2026-09-11T19:40:53-04:00",
+      "tags": [
+        "Rust",
+        "Go",
+        "AWS",
+        "Claude Code",
+        "Anthropic"
+      ],
+      "companyIcon": "https://www.anthropic.com/favicon.ico"
+    },
+    {
+      "id": "anth-5398438008",
+      "company": "Anthropic",
+      "position": "AI Deployment Specialist, Beneficial Deployments",
+      "location": "San Francisco, CA | New York City, NY",
+      "remote": false,
+      "salary": "",
+      "description": "As a Deployment Manager on the Beneficial Deployments team, you will guide customers from a signed contract into a live, governed, and adopted deployment so that customers achieve tangible impact rather than simply incremental improvement with Claude. You'll guide organizations from contract...",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5398438008",
+      "source": "Anthropic",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5398438008",
+      "postedAt": "2026-09-11T10:35:46-04:00",
+      "tags": [
+        "Rust",
+        "AWS",
+        "Claude Code",
+        "Anthropic"
+      ],
+      "companyIcon": "https://www.anthropic.com/favicon.ico"
+    },
     {
       "id": "anth-5413642008",
       "company": "Anthropic",
@@ -531,70 +571,6 @@
       "companyIcon": "https://www.anthropic.com/favicon.ico"
     },
     {
-      "id": "wwr-happyco-senior-product-designer-mobile-experience",
-      "company": "Happyco",
-      "position": "Senior Product Designer, Mobile Experience",
-      "location": "Remote",
-      "remote": true,
-      "salary": "",
-      "description": "Headquarters: Remote (AU) HappyCo is a company where people can grow their careers and work with like minded people, with no egos or politics. HappyCo is values driven and offers a flexible, supportive culture. Join HappyCo and Make Work Happy ! Sitting within HappyCo’s mobile product team, the...",
-      "applyUrl": "https://weworkremotely.com/remote-jobs/happyco-senior-product-designer-mobile-experience",
-      "source": "WeWorkRemotely",
-      "sourceUrl": "https://weworkremotely.com/remote-jobs/happyco-senior-product-designer-mobile-experience",
-      "postedAt": "2026-08-18T20:32:33+00:00",
-      "tags": [
-        "Rust",
-        "Go",
-        "Claude Code",
-        "Cursor"
-      ],
-      "companyIcon": ""
-    },
-    {
-      "id": "wwr-zeta-global-senior-product-designer-ai",
-      "company": "Zeta Global",
-      "position": "Senior Product Designer, AI",
-      "location": "Remote",
-      "remote": true,
-      "salary": "$160,000 - $180,000",
-      "description": "Headquarters: Remote - United States WHO WE ARE Zeta Global (NYSE: ZETA) is the AI-Powered Marketing Cloud that leverages advanced artificial intelligence (AI) and trillions of consumer signals to make it easier for marketers to acquire, grow, and retain customers more efficiently. Through the Zeta...",
-      "applyUrl": "https://weworkremotely.com/remote-jobs/zeta-global-senior-product-designer-ai",
-      "source": "WeWorkRemotely",
-      "sourceUrl": "https://weworkremotely.com/remote-jobs/zeta-global-senior-product-designer-ai",
-      "postedAt": "2026-08-18T20:32:19+00:00",
-      "tags": [
-        "React",
-        "Next.js",
-        "Rust",
-        "Go",
-        "Claude Code",
-        "Cursor"
-      ],
-      "companyIcon": ""
-    },
-    {
-      "id": "wwr-zeta-global-senior-product-designer-agentic-ai-applications",
-      "company": "Zeta Global",
-      "position": "Senior Product Designer, Agentic AI Applications",
-      "location": "Remote",
-      "remote": true,
-      "salary": "$160,000 - $180,000",
-      "description": "Headquarters: Remote - United States WHO WE ARE Zeta Global (NYSE: ZETA) is the AI-Powered Marketing Cloud that leverages advanced artificial intelligence (AI) and trillions of consumer signals to make it easier for marketers to acquire, grow, and retain customers more efficiently. Through the Zeta...",
-      "applyUrl": "https://weworkremotely.com/remote-jobs/zeta-global-senior-product-designer-agentic-ai-applications",
-      "source": "WeWorkRemotely",
-      "sourceUrl": "https://weworkremotely.com/remote-jobs/zeta-global-senior-product-designer-agentic-ai-applications",
-      "postedAt": "2026-08-18T20:32:19+00:00",
-      "tags": [
-        "React",
-        "Next.js",
-        "Rust",
-        "Go",
-        "Claude Code",
-        "Cursor"
-      ],
-      "companyIcon": ""
-    },
-    {
       "id": "anth-5390877008",
       "company": "Anthropic",
       "position": "Applied AI Architect, Public Sector (National Security)",
@@ -614,78 +590,6 @@
         "Anthropic"
       ],
       "companyIcon": "https://www.anthropic.com/favicon.ico"
-    },
-    {
-      "id": "wwr-collaboration-ai-senior-software-ai-engineer",
-      "company": "Collaboration.Ai",
-      "position": "Senior Software AI Engineer",
-      "location": "Remote",
-      "remote": true,
-      "salary": "",
-      "description": "Headquarters: Minneapolis, MN URL: http://collaboration.ai Who We Are Collaboration.Ai is a mission-focused, AI-powered software and services company based in Minnesota, with employees, partners, and customers around the world. We unite people, technology, and purpose to accelerate breakthroughs...",
-      "applyUrl": "https://weworkremotely.com/remote-jobs/collaboration-ai-senior-software-ai-engineer",
-      "source": "WeWorkRemotely",
-      "sourceUrl": "https://weworkremotely.com/remote-jobs/collaboration-ai-senior-software-ai-engineer",
-      "postedAt": "2026-08-17T11:57:38+00:00",
-      "tags": [
-        "TypeScript",
-        "Python",
-        "Rust",
-        "Node.js",
-        "PostgreSQL",
-        "AWS",
-        "Docker",
-        "Kubernetes",
-        "Claude Code",
-        "Kotlin"
-      ],
-      "companyIcon": ""
-    },
-    {
-      "id": "wwr-collaboration-ai-senior-software-engineer",
-      "company": "Collaboration.Ai",
-      "position": "Senior Software Engineer",
-      "location": "Remote",
-      "remote": true,
-      "salary": "",
-      "description": "Headquarters: Minneapolis, MN URL: http://collaboration.ai Who We Are Collaboration.Ai is a mission-focused, AI-powered software and services company based in Minnesota, with employees, partners, and customers around the world. We unite people, technology, and purpose to accelerate breakthroughs...",
-      "applyUrl": "https://weworkremotely.com/remote-jobs/collaboration-ai-senior-software-engineer",
-      "source": "WeWorkRemotely",
-      "sourceUrl": "https://weworkremotely.com/remote-jobs/collaboration-ai-senior-software-engineer",
-      "postedAt": "2026-08-17T11:51:08+00:00",
-      "tags": [
-        "React",
-        "Next.js",
-        "TypeScript",
-        "Python",
-        "Rust",
-        "PostgreSQL",
-        "AWS",
-        "Docker",
-        "Kubernetes",
-        "Claude Code"
-      ],
-      "companyIcon": ""
-    },
-    {
-      "id": "wwr-zoominfo-technologies-llc-principal-business-intelligence-analyst",
-      "company": "ZoomInfo Technologies LLC",
-      "position": "Principal Business Intelligence Analyst",
-      "location": "Remote",
-      "remote": true,
-      "salary": "",
-      "description": "Headquarters: Remote ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your...",
-      "applyUrl": "https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-principal-business-intelligence-analyst",
-      "source": "WeWorkRemotely",
-      "sourceUrl": "https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-principal-business-intelligence-analyst",
-      "postedAt": "2026-08-15T07:31:27+00:00",
-      "tags": [
-        "React",
-        "Python",
-        "Rust",
-        "Claude Code"
-      ],
-      "companyIcon": ""
     },
     {
       "id": "anth-5391151008",
@@ -735,29 +639,6 @@
       "companyIcon": ""
     },
     {
-      "id": "wwr-toptal-python-backend-development-talent-with-rag-and-agentic-ai-experience",
-      "company": "Toptal",
-      "position": "Python Backend Development Talent with RAG and Agentic AI Experience",
-      "location": "Remote",
-      "remote": true,
-      "salary": "",
-      "description": "Headquarters: Summary: We are seeking an experienced Python Backend Developer to design, build, and deploy scalable AI-powered applications using Retrieval-Augmented Generation, large language models, and agentic AI frameworks. The role will focus on delivering a production-grade RAG system and AI...",
-      "applyUrl": "https://weworkremotely.com/remote-jobs/toptal-python-backend-development-talent-with-rag-and-agentic-ai-experience",
-      "source": "WeWorkRemotely",
-      "sourceUrl": "https://weworkremotely.com/remote-jobs/toptal-python-backend-development-talent-with-rag-and-agentic-ai-experience",
-      "postedAt": "2026-08-12T18:38:32+00:00",
-      "tags": [
-        "Python",
-        "Go",
-        "AWS",
-        "Azure",
-        "Docker",
-        "Kubernetes",
-        "Rails"
-      ],
-      "companyIcon": ""
-    },
-    {
       "id": "hn-49271778",
       "company": "Odin",
       "position": "Senior Design Engineer",
@@ -778,31 +659,6 @@
         "Kubernetes",
         "React Native",
         "GraphQL"
-      ],
-      "companyIcon": ""
-    },
-    {
-      "id": "wwr-toptal-senior-software-engineer-for-ai-powered-banking-platform",
-      "company": "Toptal",
-      "position": "Senior Software Engineer for AI-Powered Banking Platform",
-      "location": "Remote",
-      "remote": true,
-      "salary": "",
-      "description": "Headquarters: We are seeking a Senior Software Engineer to build and scale production-grade AI-powered financial products. This is a hands-on engineering role focused on backend platform development, AI integration, and distributed systems. The ideal candidate has strong experience with TypeScript,...",
-      "applyUrl": "https://weworkremotely.com/remote-jobs/toptal-senior-software-engineer-for-ai-powered-banking-platform",
-      "source": "WeWorkRemotely",
-      "sourceUrl": "https://weworkremotely.com/remote-jobs/toptal-senior-software-engineer-for-ai-powered-banking-platform",
-      "postedAt": "2026-08-12T12:18:51+00:00",
-      "tags": [
-        "TypeScript",
-        "JavaScript",
-        "Python",
-        "AWS",
-        "GCP",
-        "Docker",
-        "Kubernetes",
-        "Claude Code",
-        "Cursor"
       ],
       "companyIcon": ""
     },
@@ -1243,12 +1099,12 @@
     },
     {
       "id": "hn-48823535",
-      "company": "Youth Inc.",
+      "company": "Note: This job is not longer vacant.",
       "position": "Senior Software Engineer",
       "location": "On-site",
       "remote": false,
       "salary": "$120k–$190k",
-      "description": "We’re a venture-backed e-commerce marketplace and media network for youth and high school sports. We’ve moved from zero to one with real revenue and are now looking for a Senior Engineer to help us scale to serve the 65M American families in this space. Our Stack: Elixir/Phoenix (LiveView),...",
+      "description": "Youth Inc. ( https://youth.inc ) is hiring a Senior Software Engineer (Hybrid: Boston/Chicago). We’re a venture-backed e-commerce marketplace and media network for youth and high school sports. We’ve moved from zero to one with real revenue and are now looking for a Senior Engineer to help us scale...",
       "applyUrl": "https://news.ycombinator.com/item?id=48823535",
       "source": "HackerNews",
       "sourceUrl": "https://news.ycombinator.com/item?id=48823535",

@@ -1,9 +1,10 @@
 {
-  "lastUpdated": "2026-09-12T07:39:03.516735+00:00",
-  "totalJobs": 90,
+  "lastUpdated": "2026-09-13T07:57:25.107693+00:00",
+  "totalJobs": 96,
   "sources": [
     "Anthropic",
-    "HackerNews"
+    "HackerNews",
+    "WeWorkRemotely"
   ],
   "jobs": [
     {
@@ -571,6 +572,70 @@
       "companyIcon": "https://www.anthropic.com/favicon.ico"
     },
     {
+      "id": "wwr-happyco-senior-product-designer-mobile-experience",
+      "company": "Happyco",
+      "position": "Senior Product Designer, Mobile Experience",
+      "location": "Remote",
+      "remote": true,
+      "salary": "",
+      "description": "Headquarters: Remote (AU) HappyCo is a company where people can grow their careers and work with like minded people, with no egos or politics. HappyCo is values driven and offers a flexible, supportive culture. Join HappyCo and Make Work Happy ! Sitting within HappyCo’s mobile product team, the...",
+      "applyUrl": "https://weworkremotely.com/remote-jobs/happyco-senior-product-designer-mobile-experience",
+      "source": "WeWorkRemotely",
+      "sourceUrl": "https://weworkremotely.com/remote-jobs/happyco-senior-product-designer-mobile-experience",
+      "postedAt": "2026-08-18T20:32:33+00:00",
+      "tags": [
+        "Rust",
+        "Go",
+        "Claude Code",
+        "Cursor"
+      ],
+      "companyIcon": ""
+    },
+    {
+      "id": "wwr-zeta-global-senior-product-designer-ai",
+      "company": "Zeta Global",
+      "position": "Senior Product Designer, AI",
+      "location": "Remote",
+      "remote": true,
+      "salary": "$160,000 - $180,000",
+      "description": "Headquarters: Remote - United States WHO WE ARE Zeta Global (NYSE: ZETA) is the AI-Powered Marketing Cloud that leverages advanced artificial intelligence (AI) and trillions of consumer signals to make it easier for marketers to acquire, grow, and retain customers more efficiently. Through the Zeta...",
+      "applyUrl": "https://weworkremotely.com/remote-jobs/zeta-global-senior-product-designer-ai",
+      "source": "WeWorkRemotely",
+      "sourceUrl": "https://weworkremotely.com/remote-jobs/zeta-global-senior-product-designer-ai",
+      "postedAt": "2026-08-18T20:32:19+00:00",
+      "tags": [
+        "React",
+        "Next.js",
+        "Rust",
+        "Go",
+        "Claude Code",
+        "Cursor"
+      ],
+      "companyIcon": ""
+    },
+    {
+      "id": "wwr-zeta-global-senior-product-designer-agentic-ai-applications",
+      "company": "Zeta Global",
+      "position": "Senior Product Designer, Agentic AI Applications",
+      "location": "Remote",
+      "remote": true,
+      "salary": "$160,000 - $180,000",
+      "description": "Headquarters: Remote - United States WHO WE ARE Zeta Global (NYSE: ZETA) is the AI-Powered Marketing Cloud that leverages advanced artificial intelligence (AI) and trillions of consumer signals to make it easier for marketers to acquire, grow, and retain customers more efficiently. Through the Zeta...",
+      "applyUrl": "https://weworkremotely.com/remote-jobs/zeta-global-senior-product-designer-agentic-ai-applications",
+      "source": "WeWorkRemotely",
+      "sourceUrl": "https://weworkremotely.com/remote-jobs/zeta-global-senior-product-designer-agentic-ai-applications",
+      "postedAt": "2026-08-18T20:32:19+00:00",
+      "tags": [
+        "React",
+        "Next.js",
+        "Rust",
+        "Go",
+        "Claude Code",
+        "Cursor"
+      ],
+      "companyIcon": ""
+    },
+    {
       "id": "anth-5390877008",
       "company": "Anthropic",
       "position": "Applied AI Architect, Public Sector (National Security)",
@@ -590,6 +655,78 @@
         "Anthropic"
       ],
       "companyIcon": "https://www.anthropic.com/favicon.ico"
+    },
+    {
+      "id": "wwr-collaboration-ai-senior-software-ai-engineer",
+      "company": "Collaboration.Ai",
+      "position": "Senior Software AI Engineer",
+      "location": "Remote",
+      "remote": true,
+      "salary": "",
+      "description": "Headquarters: Minneapolis, MN URL: http://collaboration.ai Who We Are Collaboration.Ai is a mission-focused, AI-powered software and services company based in Minnesota, with employees, partners, and customers around the world. We unite people, technology, and purpose to accelerate breakthroughs...",
+      "applyUrl": "https://weworkremotely.com/remote-jobs/collaboration-ai-senior-software-ai-engineer",
+      "source": "WeWorkRemotely",
+      "sourceUrl": "https://weworkremotely.com/remote-jobs/collaboration-ai-senior-software-ai-engineer",
+      "postedAt": "2026-08-17T11:57:38+00:00",
+      "tags": [
+        "TypeScript",
+        "Python",
+        "Rust",
+        "Node.js",
+        "PostgreSQL",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "Claude Code",
+        "Kotlin"
+      ],
+      "companyIcon": ""
+    },
+    {
+      "id": "wwr-collaboration-ai-senior-software-engineer",
+      "company": "Collaboration.Ai",
+      "position": "Senior Software Engineer",
+      "location": "Remote",
+      "remote": true,
+      "salary": "",
+      "description": "Headquarters: Minneapolis, MN URL: http://collaboration.ai Who We Are Collaboration.Ai is a mission-focused, AI-powered software and services company based in Minnesota, with employees, partners, and customers around the world. We unite people, technology, and purpose to accelerate breakthroughs...",
+      "applyUrl": "https://weworkremotely.com/remote-jobs/collaboration-ai-senior-software-engineer",
+      "source": "WeWorkRemotely",
+      "sourceUrl": "https://weworkremotely.com/remote-jobs/collaboration-ai-senior-software-engineer",
+      "postedAt": "2026-08-17T11:51:08+00:00",
+      "tags": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Python",
+        "Rust",
+        "PostgreSQL",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "Claude Code"
+      ],
+      "companyIcon": ""
+    },
+    {
+      "id": "wwr-zoominfo-technologies-llc-principal-business-intelligence-analyst",
+      "company": "ZoomInfo Technologies LLC",
+      "position": "Principal Business Intelligence Analyst",
+      "location": "Remote",
+      "remote": true,
+      "salary": "",
+      "description": "Headquarters: Remote ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your...",
+      "applyUrl": "https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-principal-business-intelligence-analyst",
+      "source": "WeWorkRemotely",
+      "sourceUrl": "https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-principal-business-intelligence-analyst",
+      "postedAt": "2026-08-15T07:31:27+00:00",
+      "tags": [
+        "React",
+        "Python",
+        "Rust",
+        "Claude Code"
+      ],
+      "companyIcon": ""
     },
     {
       "id": "anth-5391151008",
